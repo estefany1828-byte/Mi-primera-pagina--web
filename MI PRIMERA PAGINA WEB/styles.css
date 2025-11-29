@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 20px ;
+    text-align: center;
+    background-color: aliceblue;
+    background-size: 10%;
+    background-image: url('logo\ upb.png');
+    background-repeat: no-repeat repeat;
+    margin: 0;
+    
+}
+header {
+    background-color: rgb(32, 31, 31);
+    margin: 0;
+    padding: 10px;
+    color: white;
+  
+
+}    
+    /*text-transform: uppercase; 
+    line-height: 1.5;*/
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    padding left: ;
+    border: black solid;
+    margin: 0px;
+   
+   
+    
+}
+nav ul li {
+    margin 0 140px
+    list-style-type: none;
+}
